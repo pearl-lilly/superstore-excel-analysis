@@ -41,7 +41,7 @@ Firstly, my order date was saved as text, so I converted it to a proper date for
 Knowing that 2014 had the highest profit helps the business understand what factors contributed to that success and consider how to replicate them in future years.
 The consistent strong performance of the Technology category highlights it as a valuable revenue source,
 suggesting the business should prioritize investment and marketing efforts in this area to maximize profits going forward.
--<a href="https://github.com/pearl-lilly/superstore-excel-analysis/blob/main/profit%20by%20category.png"> profit by year chart</a>
+-<a href="https://github.com/pearl-lilly/superstore-excel-analysis/blob/main/profit%20by%20year.png"> profit by year chart</a>
   
 ## Q2 Which subcategories are generating losses, and what strategies can mitigate these losses?
 ### SkillUsed: Advanced Filter, Pivot Table
