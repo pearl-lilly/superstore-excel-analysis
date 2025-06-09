@@ -60,7 +60,7 @@ Chairs, despite high sales, still resulted in a loss , highlighting that strong 
 	•	High discount rates were a major factor driving losses in these categories.
 #### 🤔 So What
 This analysis shows that high discounts are a key reason for the losses. The business needs to review its discount strategy, either by reducing unnecessary discounts or focusing promotions on higher-margin items. For subcategories like Chairs, where sales are strong but profits are low, improving pricing or cost efficiency could turn losses into gains. This insight can help protect and even improve profitability moving forward
-<a href="https://github.com/pearl-lilly/superstore-excel-analysis/blob/main/losses%20by%20sub-categorypng">Losses by sub-category Chart</a>
+<a href="https://github.com/pearl-lilly/superstore-excel-analysis/blob/main/losses%20by%20sub-category.png">Losses by sub-category Chart</a>
 
 ## Q3.How do sales vary across different subcategories, and which segments drive the most revenue?
 ### Skill Used: Pivot Table, Pivot Chart
