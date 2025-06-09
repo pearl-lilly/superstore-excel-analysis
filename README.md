@@ -24,14 +24,18 @@ The following Excel skills were utilized for this analysis:
 
 ### 📊 Dataset Source The dataset used for this project was obtained from Kaggle:  
 🔗 [Superstore Dataset on Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-The dataset used for this project is the “Superstore Sales Dataset”, a real-world retail dataset available on Kaggle. It contains detailed transaction-level sales records across multiple regions and product categories.
-This dataset is widely used in data analysis and visualization projects, offering a solid foundation for practicing Excel-based business analytics.
-It includes information on:
-	•	🗓 Order and Ship Dates
-	•	📦 Product Names, Categories, and Subcategories
-	•	📍 Regions and Customer Locations
-	•	📈 Sales, Profit, Quantity, and Discount
-	•	👤 Customer and Segment Data
+## 📂 Dataset Overview
+
+The dataset used for this project is the **Superstore Sales Dataset**, a real-world retail dataset available on Kaggle.  
+It contains detailed transaction-level sales records across multiple regions and product categories.
+This dataset is widely used in data analysis and visualization projects, offering a solid foundation for practicing **Excel-based business analytics**.
+### 📊 Key Information Included:
+- 🗓 **Order and Ship Dates**  
+- 📦 **Product Names, Categories, and Subcategories**  
+- 📍 **Regions and Customer Locations**  
+- 📈 **Sales, Profit, Quantity, and Discount**  
+- 👤 **Customer and Segment Data**
+
 ## Q1.  What has been the trend in profit by year, and how can it inform future financial planning?
 ### Skill Used: Pivot Table and Pivot Chart
 ### Method:
