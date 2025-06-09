@@ -1,6 +1,8 @@
 # Superstore-Excel-Analysis
 ## Introduction
-This analysis investigates the superstore dataset to evaluate sales performance, profitability, and losses across different product categories and regions. The objective is to extract actionable insights by examining key metrics such as revenue, profit, losses, sales distribution, and temporal sales patterns. The finding will inform strategic decision aimed at marketing efforts, and improving regional operation to drive overall business performance. 
+This analysis investigates the superstore dataset to evaluate sales performance, profitability, and losses across different product categories and regions. The objective is to extract actionable insights by examining key metrics such as revenue, profit, losses, sales distribution, and temporal sales patterns. The finding will inform strategic decision aimed at marketing efforts, and improving regional operation to drive overall business performance.
+## Project Dashboard ![Dashboard](https://github.com/user-attachments/assets/b8caefff-65d8-4445-97d2-8bd37ac4035f)
+
 ## Business Questions Addressed
 To understand sales, profits, and losses across categories and regions in the Superstore dataset, I focused on the following questions:
 1. **What has been the trend in profit by year, and how can it inform future planning?**  
