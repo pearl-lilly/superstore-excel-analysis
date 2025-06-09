@@ -32,11 +32,15 @@ It includes information on:
 Firstly, my order date was saved as text, so I converted it to a proper date format using the Text to Columns feature and changing the date format. Then, I created a new column named Order Year by extracting the year from the order date using the formula =TEXT([Order Date], "yyyy"). After preparing the data, I created a Pivot Table to summarize profit by subcategory for each year. Finally, I used a bar Pivot Chart to visualize the yearly profit trends clearly.
 ### Analysis
 #### 💡 Insights
-	•	2014 recorded the highest profit compared to all other years, showing it was the most successful year financially.
-	•	Across all years, the Technology category consistently generated the highest profit among all product categories.
-	•	This suggests that Technology products are a key driver of overall profitability and should be a focus area for the business.
+•2014 recorded the highest profit compared to all other years, showing it was the most successful year financially.
+•Across all years, the Technology category consistently generated the highest profit among all product categories.
+•This suggests that Technology products are a key driver of overall profitability and should be a focus area for the business.
 #### 🤔 So What
-Knowing that 2014 had the highest profit helps the business understand what factors contributed to that success and consider how to replicate them in future years. The consistent strong performance of the Technology category highlights it as a valuable revenue source, suggesting the business should prioritize investment and marketing efforts in this area to maximize profits going forward.
+Knowing that 2014 had the highest profit helps the business understand what factors contributed to that success and consider how to replicate them in future years.
+The consistent strong performance of the Technology category highlights it as a valuable revenue source,
+suggesting the business should prioritize investment and marketing efforts in this area to maximize profits going forward.
+-<a href="https://github.com/pearl-lilly/superstore-excel-analysis/blob/main/profit%20by%20category.png"> profit by year chart</a>
+  
 ## Question2 Which subcategories are generating losses, and what strategies can mitigate these losses?
 ### Skill Advanced Filter, Pivot Table
 #### How I answered it:
