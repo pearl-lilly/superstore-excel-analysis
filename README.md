@@ -39,7 +39,7 @@ This dataset is widely used in data analysis and visualization projects, offerin
 ## Q1.  What has been the trend in profit by year, and how can it inform future financial planning?
 ### Skill Used: Pivot Table and Pivot Chart
 ### Method:
-Firstly, my order date was saved as text, so I converted it to a proper date format using the Text to Columns feature and changing the date format. Then, I created a new column named Order Year by extracting the year from the order date using the formula =TEXT([Order Date], "yyyy"). After preparing the data, I created a Pivot Table to summarize profit by subcategory for each year. Finally, I used a bar Pivot Chart to visualize the yearly profit trends clearly.
+Firstly, my order date was saved as text, so I converted it to a proper date format using the Text to Columns feature and changing the date format. Then, I created a new column named Order Year by extracting the year from the order date using the formula =TEXT([Order Date], "yyyy"). After preparing the data, I created a Pivot Table to summarize profit by subcategory for each year. Finally, I used a column Pivot Chart to visualize the yearly profit trends clearly.
 ### Analysis
  ### 💡 Insights
 - **2014** recorded the highest profit compared to all other years, showing it was the most successful year financially.  
@@ -110,7 +110,7 @@ This analysis supports data-driven decisions that can increase overall revenue a
 ### Skill Used: Pivot Table, Pivot Chart
 ### Method
 I created a Pivot Table with Region in the Rows area and Sales in the Values area to calculate total sales by region.
-Then I used a Pivot Chart (column chart) to visually compare sales across the four regions
+Then I used a Pivot Chart (doungnut chart) to visually compare sales across the four regions
 ### Analysis
 ### 💡 Insights
 - **West** had the highest sales at **$725,458**, showing strong performance and customer demand.  
@@ -132,7 +132,7 @@ Sales are unevenly distributed, with the West and East regions leading in revenu
 ### Method
 I created a Pivot Table using Customer Name in the Rows area and Profit in the Values area.
 I then sorted the Pivot Table from largest to smallest profit to identify the top 5 most profitable customers.
-Finally, I visualized the result using a Pivot Chart (bar chart) to clearly highlight the highest-value customers.
+Finally, I visualized the result using a Pivot Chart (column chart) to clearly highlight the highest-value customers.
 ## Analysis
 ### 💡 Insights
 The top 5 most profitable customers are:  
